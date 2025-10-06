@@ -55,4 +55,5 @@ python object_tracking.py
 1. Multi-object tracking
 2. Automatic HSV calibration
 3. Real-time path tracking
+4. Integration with a small robot
 
